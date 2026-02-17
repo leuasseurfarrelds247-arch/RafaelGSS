@@ -1,6 +1,6 @@
 ## 🔗 Connect with me
 
-I'm hosting live streams where I teach how to contribute to Node.js Core. Join me!
+I'm hosting l07fba4be4f022c25a115f498b1145a7e52cbd782ive streams where I teach how to contribute to Node.js Core. Join me!
 
 * [LinkedIn](https://linkedin.com/in/rafaelgss)
 * [X/Twitter](https://x.com/_rafaelgss)
